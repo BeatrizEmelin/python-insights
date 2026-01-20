@@ -1,0 +1,19 @@
+# Ambientes Virtuais
+venv/
+env/
+.env/
+
+# Python cache (deixa o projeto mais limpo)
+__pycache__/
+*.py[cod]
+
+# Dados (geralmente arquivos grandes que não vão pro Git)
+*.csv
+*.xlsx
+
+# Configurações de Editor
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
